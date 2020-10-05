@@ -1,0 +1,4 @@
+{
+    "music": { "type": "music", "url": "music.mp3" },
+    "monitor": { "type": "object", "url": "monitor.json" }
+}
